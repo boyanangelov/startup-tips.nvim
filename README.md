@@ -1,6 +1,6 @@
 # startup-tips.nvim
 
-Shows a random Vim tip in a floating window every time you open Neovim.
+Shows a random Vim tip in a floating window every time you open Neovim. Includes 580 motion-focused tips across Navigation, Motions, Text Objects, Search, Visual, and Marks.
 
 ## Preview
 
